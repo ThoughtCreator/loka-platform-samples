@@ -1,0 +1,15 @@
+{
+  "name": "demo-nodejs-iot-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client-loka.js",
+  "dependencies": {
+    "websocket": "^1.0.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
