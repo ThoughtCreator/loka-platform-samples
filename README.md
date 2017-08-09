@@ -27,10 +27,10 @@ $ node client-loka.js
 
 ### PHP Sample
 
-Edit the script and put you *authentication token* and the device to subscribe. Then, to run the application do:
+You will need PHP 5.6 installed in your environment. Then, to run the application do:
 ```sh
 $ cd demo-php-iot-core
-$ php demo.php
+$ php demo.php <Device ID> <Authentication Token>
 ```
 
 ### Support
